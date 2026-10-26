@@ -1,5 +1,5 @@
-# Zoe Commerce site
+# YanQu Tech site
 
-Static corporate site for Zoe Commerce, served by GitHub Pages at https://yanqutech.net.
+Static corporate site for YanQu Tech, served by GitHub Pages at https://yanqutech.net.
 
 Edit `index.html` and push to `main`; Pages publishes it.
